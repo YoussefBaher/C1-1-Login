@@ -1,0 +1,6 @@
+Product Name: Orderino 
+Student: Youssef Baher Roushdy Afifi 
+ID: 17P6077 
+In the first sprint, we want to create a prototype for a food ordering application. The work done in this sprint will be creating a login page, creating the UI of the ordering page, make prototype of application to show to stakeholders, Look in the market for a ready gps system to implement to application and test this prototype to see if it meets definition of done.
+In the upcoming sprint, we want to build the application by setting up the restaurant menus in the application. We  need an algorithm to estimate order time, set delivery prices by calculating the distance between restaurant and user, show restaurant offers on frontpage and allow user to order items and add balance.
+Workflow will start by creating a sprint, task or epic. Then they will be placed into TODO when created. They will then transition to IN PROGRESS as they are being worked on. After the code is written we do a code review. If the code review is approved it is done, however if it is rejected it returns to INPROGRESS. 
